@@ -1,0 +1,12 @@
+{
+    "name": "group-f/demo20-02",
+    "description": "Demo create a package; Date: 20/02/2017",
+    "authors": [
+        {
+            "name": "SonTung",
+            "email": "sontung.buinguyen@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
